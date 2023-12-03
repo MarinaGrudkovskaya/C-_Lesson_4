@@ -1,0 +1,15 @@
+C:\Users\Георгий\Videos\Георгий\C#_repit\Lesson_4\TowArray_Rec\obj\Debug\net6.0\TowArray_Rec.csproj.AssemblyReference.cache
+C:\Users\Георгий\Videos\Георгий\C#_repit\Lesson_4\TowArray_Rec\obj\Debug\net6.0\TowArray_Rec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Георгий\Videos\Георгий\C#_repit\Lesson_4\TowArray_Rec\obj\Debug\net6.0\TowArray_Rec.AssemblyInfoInputs.cache
+C:\Users\Георгий\Videos\Георгий\C#_repit\Lesson_4\TowArray_Rec\obj\Debug\net6.0\TowArray_Rec.AssemblyInfo.cs
+C:\Users\Георгий\Videos\Георгий\C#_repit\Lesson_4\TowArray_Rec\obj\Debug\net6.0\TowArray_Rec.csproj.CoreCompileInputs.cache
+C:\Users\Георгий\Videos\Георгий\C#_repit\Lesson_4\TowArray_Rec\bin\Debug\net6.0\TowArray_Rec.exe
+C:\Users\Георгий\Videos\Георгий\C#_repit\Lesson_4\TowArray_Rec\bin\Debug\net6.0\TowArray_Rec.deps.json
+C:\Users\Георгий\Videos\Георгий\C#_repit\Lesson_4\TowArray_Rec\bin\Debug\net6.0\TowArray_Rec.runtimeconfig.json
+C:\Users\Георгий\Videos\Георгий\C#_repit\Lesson_4\TowArray_Rec\bin\Debug\net6.0\TowArray_Rec.dll
+C:\Users\Георгий\Videos\Георгий\C#_repit\Lesson_4\TowArray_Rec\bin\Debug\net6.0\TowArray_Rec.pdb
+C:\Users\Георгий\Videos\Георгий\C#_repit\Lesson_4\TowArray_Rec\obj\Debug\net6.0\TowArray_Rec.dll
+C:\Users\Георгий\Videos\Георгий\C#_repit\Lesson_4\TowArray_Rec\obj\Debug\net6.0\refint\TowArray_Rec.dll
+C:\Users\Георгий\Videos\Георгий\C#_repit\Lesson_4\TowArray_Rec\obj\Debug\net6.0\TowArray_Rec.pdb
+C:\Users\Георгий\Videos\Георгий\C#_repit\Lesson_4\TowArray_Rec\obj\Debug\net6.0\TowArray_Rec.genruntimeconfig.cache
+C:\Users\Георгий\Videos\Георгий\C#_repit\Lesson_4\TowArray_Rec\obj\Debug\net6.0\ref\TowArray_Rec.dll
